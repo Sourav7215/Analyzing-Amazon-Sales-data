@@ -22,9 +22,10 @@ To uncover actionable business insights from Amazon's historical sales records u
 
 | Folder | Description |
 |--------|-------------|
-| `data/` | Cleaned dataset used for Power BI |
+| `data sorce/` | Cleaned dataset used for Power BI |
 | `docs/` | All project documentation (HLD, LLD, Wireframe, etc.) |
-| `images/` | Diagrams used in the documents |
+| `diagrams images/` | Diagrams used in the documents |
+| `DPR/` | Final `.pptx` Detail Project report file |
 | `powerbi/` | Final `.pbix` dashboard file |
 
 ---
