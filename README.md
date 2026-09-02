@@ -1,32 +1,26 @@
-# Analyzing-Amazon-Sales-data
 # 📊 Amazon Sales Dashboard Project
 
-A data analytics project using Power BI to analyze and visualize Amazon’s sales data across different regions, product types, and time periods.
+A data analytics project using Power BI to analyze and visualize Amazon's sales data across different regions, product types, and time periods.
+
+**Tools:** Microsoft Excel (Power Query) · Power BI Desktop · DAX
 
 ---
 
 ## 🔍 Objective
+
 To uncover actionable business insights from Amazon's historical sales records using interactive dashboards and KPIs.
-
----
-
-## 🧰 Tools Used
-- Microsoft Excel (Power Query)
-- Microsoft Power BI Desktop
-- DAX (Data Analysis Expressions)
-- CSV Dataset
 
 ---
 
 ## 📁 Project Structure
 
 | Folder | Description |
-|--------|-------------|
-| `data sorce/` | Cleaned dataset used for Power BI |
-| `docs/` | All project documentation (HLD, LLD, Wireframe, etc.) |
-| `diagrams images/` | Diagrams used in the documents |
-| `DPR/` | Final `.pptx` Detail Project report file |
-| `powerbi/` | Final `.pbix` dashboard file |
+|---|---|
+| `Data Source/` | Cleaned dataset used for the Power BI dashboard |
+| `DOC's/` | Project documentation (HLD, LLD, Wireframes, etc.) |
+| `diagrams images/` | Diagrams referenced in the documentation |
+| `DPR/` | Final Detailed Project Report (.pptx) |
+| `Dashboard/` | Final Power BI dashboard file (.pbix) |
 
 ---
 
@@ -41,18 +35,20 @@ To uncover actionable business insights from Amazon's historical sales records u
 ---
 
 ## 📌 How to Run
-1. Open `amazon data final cleaned.csv` in Excel (optional)
-2. Open `Amazon Sale's Data Powert BI.pbix` in Power BI Desktop
-3. Interact with slicers and visuals
+
+1. (Optional) Open the cleaned dataset in `Data Source/` in Excel to review the data.
+2. Open the `.pbix` file in the `Dashboard/` folder using Power BI Desktop.
+3. Interact with the slicers and visuals to explore the data.
 
 ---
 
 ## 📄 Documentation
-All documentation files (HLD, LLD, Architecture, Wireframe, DPR) are located in the `/docs/` folder.
+
+All documentation files (HLD, LLD, Architecture, Wireframes, DPR) are located in the `DOC's/` and `DPR/` folders.
 
 ---
 
 ## 🧠 Author
-- **Sourav Patra**
-- LinkedIn: https://www.linkedin.com/in/sourav-patra-51a300298
----
+
+**Sourav Patra**
+[LinkedIn](https://www.linkedin.com/in/sourav-patra-51a300298)
